@@ -1,4 +1,4 @@
-![](img/logo-long-chatchat-trans-v2.png)
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "langchain-chatglm")](https://t.me/+RjliQ3jnJ1YyN2E9)
 
